@@ -1,6 +1,6 @@
 # > mercari
 DOMAIN-SUFFIX,naver.jp
 DOMAIN-SUFFIX,linecorp.com
-DOMAIN-SUFFIX,line-scdn.net
+DOMAIN,line-scdn.net
 DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,line-apps.com
